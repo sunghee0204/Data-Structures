@@ -8,7 +8,7 @@
 4. Tree
     1. Binary Tree
     2. Red Black Tree
-5. Priority Queues
-6. Heaps
+5. Heaps
+6. Priority Queues
 7. Graphs
 8. Sets

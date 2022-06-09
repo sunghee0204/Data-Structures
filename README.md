@@ -11,4 +11,3 @@
 5. Heaps
 6. Priority Queues
 7. Graphs
-8. Sets
